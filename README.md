@@ -8,7 +8,7 @@ OxRSE Unit Conversion is a simple unit conversion library designed primarily for
 techniques. It is a python module that exposes a command line interface and commands for converting between
 different units.
 
-##List of unit coversion library content:
+## List of unit coversion library content:
 - kilometer to metre
 - foot to furlong 
 - cubic foot to cubic furlong
